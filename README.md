@@ -1,6 +1,6 @@
 # flutter_bottom_app_bar
 
-A new Flutter project.
+A new Flutter project that show how to use BottomNavigationBar with TabBarView to create a navigation items with fragments.
 
 ## Getting Started
 
